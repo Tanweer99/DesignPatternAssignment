@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NotificationSystemProject": {
+      "commandName": "Project",
+      "commandLineArgs": "\"sms\" \"Holiday\" \"Hurray! Tomorrow is holiday.\""
+    }
+  }
+}
